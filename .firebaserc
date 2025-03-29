@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "webcustomer-7bc4f"
+  },
+  "targets": {
+    "webcustomer-7bc4f": {
+      "hosting": {
+        "customer-site": [
+          "customer-64293"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
